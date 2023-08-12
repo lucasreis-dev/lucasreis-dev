@@ -3,9 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-reis-0a087b153/)
 
-Sou Apaixonado por analisar dados e desenvolver soluções que facilitem, otimizem e gerem valor para as pessoas.
-
-Atualmente trabalho com Analise de Dados, utilizando principalmente as ferramentas Power BI e Python, desenvolvendo soluções robustas para facilitar a tomada de decisões e automatizações de processos operacionais. 
+Atualmente trabalho com Analise de Dados, utilizando principalmente as ferramentas Python, Power BI e Qlikview, desenvolvendo soluções robustas para facilitar a tomada de decisões e automatizações de processos operacionais. 
 
 
 
